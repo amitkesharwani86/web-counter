@@ -1,0 +1,21 @@
+*{
+    text-align: center;
+}
+
+h1{
+    font-size:5em;
+    font-family:  'Arial Narrow', Arial, sans-serif;
+}
+
+button{
+    background-color: aqua;
+    font-size: 15px;      
+    padding: 10px 20px;   
+    border-radius: 5px;   
+    cursor: pointer;      
+}
+
+button:hover{
+    cursor: pointer;
+    background-color: rgb(3, 195, 195);
+}
