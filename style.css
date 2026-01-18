@@ -1,5 +1,7 @@
 *{
     text-align: center;
+        background-color: rgb(201, 201, 201);
+
 }
 
 h1{
@@ -19,3 +21,4 @@ button:hover{
     cursor: pointer;
     background-color: rgb(3, 195, 195);
 }
+
